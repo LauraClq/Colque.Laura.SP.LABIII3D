@@ -1,0 +1,44 @@
+{
+  "monstruos": [
+    {
+      "id": 1,
+      "nombre": "lucy",
+      "tipo": "Zombie",
+      "alias": "lulu",
+      "defensa": "Crucifijo",
+      "miedo": "16"
+    },
+    {
+      "id": 2,
+      "nombre": "mayvis",
+      "tipo": "Vampiro",
+      "alias": "may",
+      "defensa": "Estaca",
+      "miedo": "26"
+    },
+    {
+      "id": 3,
+      "nombre": "blane",
+      "tipo": "Zombie",
+      "alias": "puce",
+      "defensa": "Crucifijo",
+      "miedo": "78"
+    },
+    {
+      "id": 5,
+      "nombre": "quill",
+      "tipo": "Vampiro",
+      "alias": "fran",
+      "defensa": "Pocion",
+      "miedo": "85"
+    },
+    {
+      "id": 6,
+      "nombre": "francis",
+      "tipo": "Bruja",
+      "alias": "fran",
+      "defensa": "Pocion",
+      "miedo": "100"
+    }
+  ]
+}
